@@ -66,7 +66,7 @@ jobs:
       env:
         zipball: ${{ github.event.release.zipball_url }}
       run: |
-        name=$(basename ${tarball})        
+        name=$(basename ${zipball})        
         curl -L $zipball > $name
         echo "archive=${name}" >> $GITHUB_ENV
 

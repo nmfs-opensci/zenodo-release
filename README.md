@@ -1,4 +1,7 @@
 # Zenodo Action
+
+**Warning: no single quotes (e.g. it's) in your release description**
+
 This is a slight variant of [zenodo-release](https://github.com/rseng/zenodo-release) Copyright © 2022, Vanessa Sochat
 
 This is a GitHub Action to allow you to automatically update a package on zenodo

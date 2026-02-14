@@ -1,6 +1,6 @@
 # Zenodo Action
 
-**Warning: no single quotes (e.g. it's) in your release description**
+**Warning: no single quotes (e.g. it's, what's or doesn't) in your release description**
 
 This is a slight variant of [zenodo-release](https://github.com/rseng/zenodo-release) Copyright © 2022, Vanessa Sochat
 
